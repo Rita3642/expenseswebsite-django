@@ -1,0 +1,85 @@
+
+html[data-theme="light"], :root {
+
+    --primary:	#80c1e6;
+    --secondary:  #162b4e;  
+    --accent: #f5dd5d;
+    --primary-fg: #fff;
+    --body-fg: #333;
+    --body-bg: #fff;
+    --body-quiet-color: #666;
+    --body-loud-color: #000;
+    --header-color: #ffc;
+    --header-branding-color:#ffffff; ;
+    --header-bg: var(--secondary);
+    --header-link-color: var(--primary-fg);
+    --breadcrumbs-fg: #c4dce8;
+    --breadcrumbs-link-fg: var(--body-bg);
+    --breadcrumbs-bg: var(--primary);
+    --link-fg: #162b4e;
+    --link-hover-color: #162b4e;
+    --link-selected-fg: #80c1e6;
+    --hairline-color: #e8e8e8;
+    --border-color: #ccc;
+    --error-fg: #ba2121;
+    --message-success-bg: #dfd;
+    --message-warning-bg: #ffc;
+    --message-error-bg: #ffefef;
+    --darkened-bg: #f8f8f8;
+    --selected-bg: #e4e4e4;
+    --selected-row: #ffc;
+    --button-fg: #fff;
+    --button-bg: var(--primary);
+    --button-hover-bg: #80c1e6;
+    --default-button-bg: var(--secondary);
+    --default-button-hover-bg: #162b4e;
+    --close-button-bg: #747474;
+    --close-button-hover-bg: #333;
+    --delete-button-bg: #ba2121;
+    --delete-button-hover-bg: #a41515;
+    --object-tools-fg: var(--button-fg);
+    --object-tools-bg: var(--close-button-bg);
+    --object-tools-hover-bg: var(--close-button-hover-bg);
+    --font-family-primary: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --font-family-monospace: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono", "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro", "Fira Mono", "Droid Sans Mono", "Courier New", monospace, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+
+
+/* 
+#header {
+
+    background: rgb(0, 62, 69);
+    color: #ffffff;
+}   
+
+
+#branding h1 {
+    color:#ffffff;
+}
+
+div.breadcrumbs {
+    background-color: rgb(61, 88, 106);
+    color: #ffffff;
+}
+
+.login .submit-row{
+    padding: 0px;
+} 
+
+.button, 
+input[type=submit], 
+input[type=button], 
+.submit-row input, 
+a.button {
+    width: 100%;
+    background: rgb(0, 62, 69);
+
+} */
+
+
+/* 
+#fa8072
+#162b4e
+
+ */
